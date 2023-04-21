@@ -1,5 +1,7 @@
 # markdown
 
+![du du du](https://user-images.githubusercontent.com/128937668/233734333-c589a006-0b1c-4609-9dd5-42e63a11c07d.gif)
+
 ## *Will you hang me out to dry?*
 
 Markdown, assim como o HTML, é uma linguagem de **marcação**.
